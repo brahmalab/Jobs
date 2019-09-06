@@ -56,5 +56,5 @@
 >3. 具機器學習、大數據系統之相關知識者以及專案管理的能力者尤佳   
 
 > #### Compensation Package   
->Salary & Stock Op>tions (negotiable)   
+>Salary & Stock Options (negotiable)   
 
