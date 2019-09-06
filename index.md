@@ -5,6 +5,26 @@ Brahma Lab is Recruiting...
 
 > Our office is at exit No. 5 of Zhongxiao Dunhua MRT station, Taipei City. Contact us: info@cubepia.io
 
+### Job Opening: Full Stack Developer
+>We’re looking for a Full Stack developer who will take a key role on our team. Our Full Stack developer must have knowledge in all stages of software development. You’ll be working alongside other engineers and developers, collaborating on the various layers of the infrastructure for our platform and applications.   
+
+>#### Job Descriptions
+>- Design overall architecture of the web application.   
+>- Maintain quality and ensure responsiveness of applications.   
+>- Collaborate with the rest of the engineering team to design and launch new features.   
+>- Maintain code integrity and organization.   
+>- Experience working with graphic designers and converting designs to visual elements.   
+>- Understanding and implementation of security and data protection.   
+>- Highly experienced with back-end programming languages such as PHP, Python, JavaScript, and etc.   
+>- Proficient experience using ReactJS, and/or ECMAScript.   
+>- Development experience for both mobile and desktop.   
+>- Understanding of server-side languages.   
+>- Experience with cloud message APIs and usage of push notifications.  
+>- Knowledge of code versioning tools {{such as Git, Mercurial or SVN}}.   
+
+>#### Compensation Package
+>Salary & Stock Options (negotiable)   
+
 ### Job Opening: Software Developer
 >您將成為 Data Science Team 的初始核心成員，跟著我們的資料科學家（交大資訊工程博士，現亦為淡江大學教授）負責建構交通路網的模擬環境以及建構數據分析工具，來驗證各種大膽的假設。如果您喜歡步調快、變化多端的工作環境，不僅握有一身專業更期待自己成為跨領域人才，有滿滿的熱情以及學習能量，歡迎加入我們！
 
@@ -40,22 +60,3 @@ Brahma Lab is Recruiting...
 > #### Compensation Package   
 >Salary & Stock Op>tions (negotiable)   
 
-### Job Opening: Full Stack Developer
->We’re looking for a Full Stack developer who will take a key role on our team. Our Full Stack developer must have knowledge in all stages of software development. You’ll be working alongside other engineers and developers, collaborating on the various layers of the infrastructure for our platform and applications.   
-
->#### Job Descriptions
->- Design overall architecture of the web application.   
->- Maintain quality and ensure responsiveness of applications.   
->- Collaborate with the rest of the engineering team to design and launch new features.   
->- Maintain code integrity and organization.   
->- Experience working with graphic designers and converting designs to visual elements.   
->- Understanding and implementation of security and data protection.   
->- Highly experienced with back-end programming languages such as PHP, Python, JavaScript, and etc.   
->- Proficient experience using ReactJS, and/or ECMAScript.   
->- Development experience for both mobile and desktop.   
->- Understanding of server-side languages.   
->- Experience with cloud message APIs and usage of push notifications.  
->- Knowledge of code versioning tools {{such as Git, Mercurial or SVN}}.   
-
->#### Compensation Package
->Salary & Stock Options (negotiable)   
