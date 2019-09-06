@@ -1,6 +1,4 @@
-Brahma Lab is Recruiting...
-
-## About Us
+## About Brahma Lab
 > Brahma Lab is a startup and concentrates on building an open and flexible IoT platform for industrial and commercial applications, including modularized tag devices, rapid signal transmissions, data security technologies and etc.
 
 > Our office is at exit No. 5 of Zhongxiao Dunhua MRT station, Taipei City. Contact us: info@cubepia.io
