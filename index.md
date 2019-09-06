@@ -1,7 +1,7 @@
 ## About Brahma Lab
 > Brahma Lab is a startup and concentrates on building an open and flexible IoT platform for industrial and commercial applications, including modularized tag devices, rapid signal transmissions, data security technologies and etc.
 
-> Our office is at exit No. 5 of Zhongxiao Dunhua MRT station, Taipei City. Contact us: info@cubepia.io
+> Our office is at exit No. 5 of Zhongxiao Dunhua MRT station, Taipei City. Contact us: siva.huang@gmail.com
 
 ### Job Opening: Full Stack Developer
 >We’re looking for a Full Stack developer who will take a key role on our team. Our Full Stack developer must have knowledge in all stages of software development. You’ll be working alongside other engineers and developers, collaborating on the various layers of the infrastructure for our platform and applications.   
